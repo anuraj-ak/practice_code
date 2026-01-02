@@ -7,7 +7,8 @@ public class pr2 {
     float sub1=sc.nextInt();
     float sub2=sc.nextInt();
     float sub3=sc.nextInt();
-    float result=(sub2+sub1+sub3)/30;
+    float sub4=sc.nextInt();
+    float result=(sub2+sub1+sub3+sub4)/40;
     System.out.println(result);
     
     }
